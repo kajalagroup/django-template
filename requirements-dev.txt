@@ -1,0 +1,7 @@
+pytype
+prospector
+mypy
+django-stubs
+djangorestframework-stubs
+pre-commit
+
