@@ -11,6 +11,8 @@ Features
 * Email settings for SendGrid
 * File logging config (in logs/)
 * Security options when not DEBUG
+* Pre-commit hook for Black formatting
+* Basic configs for prospector, mypy
 
 Usage
 -----
