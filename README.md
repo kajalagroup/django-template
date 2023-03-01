@@ -3,6 +3,7 @@ Django Project Template
 
 Features
 --------
+* Django 4 (4.1.6)
 * Settings based on .env
 * PostgreSQL DB settings
 * Locales settings
